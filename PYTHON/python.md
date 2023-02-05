@@ -1,4 +1,4 @@
-# Build, compile and install Python from source code
+# Build, compile and install Python from source code on Linux *(Ubuntu-Debian)
 
 > [REFERENCE TO GENERATE CODE FOR INSTALLATION](https://www.build-python-from-source.com/)
 
