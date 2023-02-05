@@ -7,4 +7,4 @@
 ### SOCIAL
 
 - TRELLO: https://trello.com/b/eZIYlOaT/ai-za-sve
-
+- DISCORD: https://discord.gg/45HrxrZ7
