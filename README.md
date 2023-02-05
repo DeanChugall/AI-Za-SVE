@@ -6,5 +6,5 @@
 
 ### SOCIAL
 
-- TRELLO https://trello.com/b/eZIYlOaT/ai-za-sve
+- TRELLO: https://trello.com/b/eZIYlOaT/ai-za-sve
 
